@@ -1,6 +1,6 @@
 package com.example.Java_Lesson;
 
-public class kadai_1 {
+public class Kadai_1 {
 	public static void main(String[] args) {
 		System.out.print("Hello_worldの一回表示\n");
 		System.out.print("Hello_world.\n");
